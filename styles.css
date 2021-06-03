@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  background-color: antiquewhite;
+  margin: 0;
+  color: palevioletred;
+  font-size: 2rem;
+  
+}
+h1{
+  color: cadetblue;
+}
+.congo{
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  padding: 10px 10px 10px 10px;
+}
+.name{
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  margin: 0;
+}
+.img1{
+width: 15%;
+}
+.div1{
+  text-align: center;
+  margin:0 auto;
+}
+.img7{
+  float:left;
+  position: absolute;
+  bottom: 50px;
+  right: 950px;
+}
+.img9{
+
+  position: absolute;
+  left: 1050px;
+  bottom:200px;
+}
